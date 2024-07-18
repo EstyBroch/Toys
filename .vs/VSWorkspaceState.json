@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyProject.API\\Models",
+    "\\MyProject.Repositories\\Repositories",
+    "\\MyProject.Resources\\DTOs",
+    "\\MyProject.Services\\Interfaces",
+    "\\MyProject.Services\\obj"
+  ],
+  "SelectedNode": "\\MyProject.WebAPI",
+  "PreviewInSolutionExplorer": false
+}
